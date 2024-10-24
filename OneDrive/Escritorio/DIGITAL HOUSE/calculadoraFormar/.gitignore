@@ -1,0 +1,30 @@
+.bash_history
+.console-ninja/
+.gitconfig
+.lesshst
+.node_repl_history
+.viminfo
+.vscode/
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+Search/
+Videos/
+Configuración local/
+Cookies/
+Datos de programa/
+Documents/Mi música/
+Documents/Mis imágenes/
+Documents/Mis vídeos/
+Entorno de red/
+Impresoras/
+Menú Inicio/
+Mis documentos/
+Plantillas/
+Reciente/
+SendTo/
+package.json
