@@ -27,6 +27,6 @@ function potenciación(base,exponente){
 }
 module.exports = potenciación;
 
-console.log(potenciación(2,-3));
+
 
 
